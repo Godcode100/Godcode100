@@ -1,14 +1,4 @@
-- 👋 Hi, I’m @Godcode100 and I believe in Christ Jesus as my saviour
-     "Your word Lord is a lamp unto my feet
-      and light unto my path"
-- 👀 I am a prayer warrior and python developer.
-- 🌱 I work with anything python.
-- 💞️ I collaborate on python  projects especially with libraries such as django and streamlit
-- 📫 
-
-<!---
-Godcode100/Godcode100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.[README.md](https://github.com/user-attachments/files/20738153/README.md)<h1 align="center">Hi 👋, I'm Godcode100</h1>
+<h1 align="center">Hi 👋, I'm Godcode100</h1>
 <h3 align="center">A people oriented backend developer and data Enginneer,and AWS cloud computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godcode100&label=Profile%20views&color=0e75b6&style=flat" alt="godcode100" /> </p>
@@ -35,5 +25,12 @@ You can click the Preview link to take a look at your changes.[README.md](https:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godcode100&show_icons=true&locale=en" alt="godcode100" /></p>
 
 
+
+<!---
+Godcode100/Godcode100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.[README.md](https://github.com/user-attachments/files/20738153/README.md)<h1 align="center">Hi 👋, I'm Godcode100</h1>
+<h3 align="center">A people oriented backend developer and data Enginneer,and AWS cloud computing</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=godcode100&label=Profile%20views&color=0e75b6&style=flat" alt="godcode100" /> </p>[README.md](https://github.com/user-attachments/files/20738159/README.md)
 
 --->
